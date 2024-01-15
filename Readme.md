@@ -24,5 +24,3 @@ pip install openai
 
 # If using google cloud text-to-speech
 pip3 install --user --upgrade google-cloud-texttospeech
-
-Follow the instructions on the Google cloud site or the channel video to setup authentication and enable the API
